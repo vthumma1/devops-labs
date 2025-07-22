@@ -1,0 +1,3 @@
+INFO User=alice action=login
+ERROR User=bob action=delete
+INFO User=alice action=logout
